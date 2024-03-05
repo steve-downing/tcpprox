@@ -13,4 +13,4 @@ ENV REMOTE_PORT=8081
 
 EXPOSE $LISTEN_PORT
 
-CMD ["python", "./prox.py", "-L", $LISTEN_PORT, $REMOTE_HOST, $REMOTE_PORT]
+CMD ["python3", "./prox.py", "-L", $LISTEN_PORT, $REMOTE_HOST, $REMOTE_PORT]
