@@ -6,6 +6,7 @@ A small command-line TCP proxy utility written in Python
 Tim Newsham <tim at isecpartners dot com>
 29 Oct 2012
 
+Dockerization added by Steve Downing
 
 
 Overview
